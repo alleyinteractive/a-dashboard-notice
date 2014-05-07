@@ -1,5 +1,5 @@
 === A Dashboard Notice ===
-Contributors: alleyinteractive
+Contributors: dlh, alleyinteractive, mboynes
 Tags: dashboard
 Requires at least: 3.9.0
 Tested up to: 3.9
