@@ -27,7 +27,7 @@ For example, you could alert users to upcoming maintenance or a change in site p
 == Changelog ==
 
 = 0.2.0 =
-* Improve heading hierarchy on settings page.
+* Improve settings page accessibility.
 
 = 0.1.0 =
 * Initial release.
