@@ -1,7 +1,7 @@
 === A Dashboard Notice ===
 Contributors: dlh, alleyinteractive, mboynes
 Tags: dashboard
-Requires at least: 3.9.0
+Requires at least: 3.9
 Tested up to: 4.7
 Stable tag: 0.2.0
 License: GPLv2 or later
