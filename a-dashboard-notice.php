@@ -3,7 +3,7 @@
 	Plugin Name: A Dashboard Notice
 	Plugin URI: https://github.com/alleyinteractive/a-dashboard-notice
 	Description: Display a notice in the WordPress Dashboard to all users.
-	Version: 0.1.0
+	Version: 0.2.0
 	Author: Alley Interactive
 	Author URI: http://www.alleyinteractive.com/
 */

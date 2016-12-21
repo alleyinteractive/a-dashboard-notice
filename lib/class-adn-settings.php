@@ -107,7 +107,7 @@ class ADN_Settings {
 	public function view_settings_page() {
 		?>
 		<style>
-		#adn h2::before {
+		#adn h1::before {
 			content: "\f488";
 			display: inline-block;
 			-webkit-font-smoothing: antialiased;
@@ -117,7 +117,7 @@ class ADN_Settings {
 		}
 		</style>
 		<div id="adn" class="wrap">
-			<h2><?php _e( 'A Dashboard Notice', 'adn' ); ?></h2>
+			<h1><?php esc_html_e( 'A Dashboard Notice', 'adn' ); ?></h1>
 			<form action="options.php" method="POST">
 				<?php settings_fields( self::SLUG ); ?>
 				<?php do_settings_sections( self::SLUG ); ?>
